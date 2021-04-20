@@ -1,0 +1,4 @@
+A)  Redux Cycle
+    : Action Creator -> Action -> Dispatch -> Reducers -> State
+    Equivalent in insurance company project
+    : Person Dropping Off The From ->  The Form -> Form Receiver -> Departments -> Compiled Department Data
