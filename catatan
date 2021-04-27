@@ -1,0 +1,4 @@
+libraries
+ npm install --save react-redux
+  npm install --save redux 
+  npm i web-vitals --save-dev   
